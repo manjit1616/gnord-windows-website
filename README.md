@@ -21,4 +21,4 @@ Recommended Vercel settings:
 - Framework Preset: Other
 - Build Command: empty
 - Output Directory: `.`
-
+Redeploy trigger: June 21, 2026
